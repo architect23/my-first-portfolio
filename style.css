@@ -1,0 +1,26 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+h1{
+    font-size: 60px;
+}
+.king{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.ku{
+    text-decoration: none;
+   background-color: rgb(139, 103, 36);
+   padding: 10px 40px;
+   color: white;
+   border-radius: 5px;
+} 
+.first{
+    padding-left: 40px;
+    width: 50%;
+}
+.first img{
+    width: 100%;
+}
