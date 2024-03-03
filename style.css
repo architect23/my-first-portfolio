@@ -1,5 +1,6 @@
 body{
     font-family: "Poppins", sans-serif;
+   
 }
 h1{
     font-size: 60px;
@@ -9,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 15%;
 }
 .ku{
     text-decoration: none;
